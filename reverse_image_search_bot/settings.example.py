@@ -1,4 +1,4 @@
-TELEGRAM_API_TOKEN = 'Tel Bot Token By @BotFather'
+TELEGRAM_API_TOKEN = '1809674230:AAGkHLLPtq_ikQ1457Rt1IcWWrRlkBYe1GE'
 
 UPLOADER = {
     'uploader': 'reverse_image_search_bot.uploaders.ssh.SSHUploader',
